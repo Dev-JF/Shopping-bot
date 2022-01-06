@@ -1,0 +1,12 @@
+get it to work on different websites
+
+
+get code to use a proxy
+
+
+comment my code
+
+
+take out redundancy/ neaten code
+
+write a how to use document
