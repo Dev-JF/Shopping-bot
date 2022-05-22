@@ -32,3 +32,20 @@ For example the steps are: add the item to the cart, go to the cart, checkout, i
 
 Note: there is an example Kmart.json file.
 
+
+
+
+
+
+
+
+
+
+
+
+Things that need to be added
+
+User interface
+
+
+
