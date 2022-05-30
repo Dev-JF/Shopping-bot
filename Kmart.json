@@ -3,8 +3,8 @@
   "closePopUpButton":{"button":"/html/body/div[19]/div[2]/div/div/div[1]/a", "value":"blank"},
   
   "addToCart":{"button":"/html/body/div[11]/section[1]/div[7]/div/div[1]/div[1]/a", "value":"bttn1" },
-  "goToCart":{"button":"/html/body/div[6]/div[2]/div[3]/div[3]/span/div[2]/div[1]/a/span", "value":"bttn1" },
-  "goToCheckout":{"button":"/html/body/div[9]/div/div[4]/section/section/div[2]/div[2]/div[3]/div/div/div[3]/section[2]/div/a", "value":"bttn1" },
+  "goToCart":{"button":"/html/body/div[6]/div[2]/div[3]/div[3]/span/div[2]/div[1]/a/span", "value":"bttn2" },
+  "goToCheckout":{"button":"/html/body/div[9]/div/div[4]/section/section/div[2]/div[2]/div[3]/div/div/div[3]/section[2]/div/a", "value":"bttn3" },
   
 
  
