@@ -1,3 +1,7 @@
+
+Note: the version of chrome and the version of chrome driver have to match or chrome driver doesnt work.
+
+
 # Shopping-bot
 This bot is so you can beat the scalpers and use a bot to buy items that are usually scalped
 
